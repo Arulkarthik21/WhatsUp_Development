@@ -9,3 +9,5 @@ Author : Arulkarthik
 3. Last screen code
 
 4. Attachement(Image, video, file) code
+
+5. Hiding the last seen
