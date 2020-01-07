@@ -11,3 +11,5 @@ Author : Arulkarthik
 4. Attachement(Image, video, file) code
 
 5. Hiding the last seen
+
+6. Block Someone
